@@ -1,0 +1,4 @@
+.main-selection {
+    display: inline;
+    grid-template-rows: 80px 80px;
+}
